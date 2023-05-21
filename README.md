@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vijay.G
 - 👀 Newbie in full stack development
-- 🏫 4th, CSE-Skct
+- 🏫 B.E CSE
 <h3>Lets connect</h3>
 <p>
   <a href="https://www.instagram.com/vijay_guru18/"><img hieght=30 width=40 style="max-width:100%" src="https://brandpalettes.com/wp-content/uploads/2018/10/Instagram-300x300.png?ezimgfmt=rs:300x300/rscb1/ng:webp/ngcb1"></a>
