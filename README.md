@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vijay.G
-- 👀 Newbie in full stack development
+- 👀 Full Stack Developer
 - 🏫 B.E CSE
 <h3>Lets connect</h3>
 <p>
